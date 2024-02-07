@@ -1,0 +1,7 @@
+;/*FB_PKG_DELIM*/
+
+__d("PagesCometAdminCTAEditDialogQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="9998832660157151"}),null);
+__d("PagesCometAdminCTAEditDialogQuery$Parameters",["PagesCometAdminCTAEditDialogQuery_facebookRelayOperation"],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{id:b("PagesCometAdminCTAEditDialogQuery_facebookRelayOperation"),metadata:{},name:"PagesCometAdminCTAEditDialogQuery",operationKind:"query",text:null}};e.exports=a}),null);
+__d("PagesCometAdminCTAEditDialog.entrypoint",["JSResourceForInteraction","PagesCometAdminCTAEditDialogQuery$Parameters"],(function(a,b,c,d,e,f,g){"use strict";a={getPreloadProps:function(a){a=a.pageID;return{queries:{queryReference:{parameters:c("PagesCometAdminCTAEditDialogQuery$Parameters"),variables:{pageID:a}}}}},root:c("JSResourceForInteraction")("PagesCometAdminCTAEditDialog.react").__setRef("PagesCometAdminCTAEditDialog.entrypoint")};g["default"]=a}),98);
+__d("ProfileCometCoverPhotoEditDialog.entrypoint",["JSResourceForInteraction"],(function(a,b,c,d,e,f,g){"use strict";a={getPreloadProps:function(){return{}},root:c("JSResourceForInteraction")("ProfileCometCoverPhotoEditDialog.react").__setRef("ProfileCometCoverPhotoEditDialog.entrypoint")};g["default"]=a}),98);
+__d("XCometMenuCollateralsControllerRouteBuilder",["jsRouteBuilder"],(function(a,b,c,d,e,f,g){a=c("jsRouteBuilder")("/{vanity}/menu/collaterals/",Object.freeze({ref:""}),void 0);b=a;g["default"]=b}),98);
